@@ -1,4 +1,7 @@
-# Competitvie-multi-task-bayesian-optimization
+# Competitive multi-task Bayesian optimization with an application in hyperparameter tuning of additive manufacturing
+
+## [cite] Wang, S., Ou, W., Liu, Z., Du, B., & Wang, R. (2024). Competitive multi-task Bayesian optimization with an application in hyperparameter tuning of additive manufacturing. Expert Systems with Applications, 125618.
+
 Multi-task Bayesian optimization (MTBO) is an effective method for optimization involving multiple tasks. In this work,
 we propose competitive multi-task Bayesian optimization (CMTBO) where the primary task is not pre-defined. Instead, it is chosen as the
 task whose optimal solution is the best among all tasks. We adopt the multi-task Gaussian process to model the multiple tasks and design
